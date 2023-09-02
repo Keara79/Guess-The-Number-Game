@@ -1,0 +1,5 @@
+feat: Add guess the number game
+
+This commit introduces a "Guess the Number" game to the project. The game prompts the player to guess a randomly generated number within a specified range. 
+It provides feedback on whether the guess is too high or too low, helping the player narrow down their guesses. 
+The game keeps track of the number of attempts made by the player and displays a congratulatory message upon guessing the correct number.
